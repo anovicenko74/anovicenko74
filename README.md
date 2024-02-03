@@ -1,1 +1,1 @@
-<div style='display: flex; justify-content: center; align-items: center'><img src="https://github.com/anovicenko74/anovicenko74/blob/main/RmRxxedfsPc.jpg" alt="Mokkapps GitHub README header image"></div>
+<div><img src="https://github.com/anovicenko74/anovicenko74/blob/main/0eV_rC-2DIc.jpg" alt="Mokkapps GitHub README header image"></div>
